@@ -1,6 +1,6 @@
 # ML-Stanford  
 Machine Learning course by Andrew Ng on Coursera.  
-[View certificate](https://github.com/Ars235/ML_Stanford/tree/master/assets/Coursera GTBMJXR26MBE.pdf)  
+[View certificate](https://github.com/Ars235/ML_Stanford/tree/master/assets/Coursera_GTBMJXR26MBE.pdf)  
 - [Week 2 - Linear Regression](https://github.com/Ars235/ML_Stanford/tree/master/week_2)  
 - [Week 3 - Logistic Regression](https://github.com/Ars235/ML_Stanford/tree/master/week_3)  
 - [Week 4 - Multi-class Classification and Neural Networks](https://github.com/Ars235/ML_Stanford/tree/master/week_4)  
